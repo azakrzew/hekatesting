@@ -4,7 +4,8 @@ import (
 	"database/sql"
 	"fmt"
 	"errors"
-	"strings"
+        . "github.com/mozilla-services/heka/pipeline"
+	//"strings"
 )
 
 type SQLOutputConfig struct {
