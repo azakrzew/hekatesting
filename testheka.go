@@ -3,7 +3,6 @@ package testheka
 import (
 	"database/sql"
 	"fmt"
-	//"encoding/json"
 	"errors"
 	"strings"
 )
