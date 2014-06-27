@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"fmt"
 	//"encoding/json"
-	"error"
+	"errors"
 	"strings"
 )
 
