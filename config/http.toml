@@ -1,0 +1,10 @@
+[HttpInput]
+url = "http://localhost:9876/"
+ticker_interval=5
+
+[SQLOutput]
+encoder="PayloadEncoder"
+db = "hekadb"
+table = "outt"
+username = "root"
+password = "mypassword"

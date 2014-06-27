@@ -1,0 +1,11 @@
+[hekad]
+max_message_loops = 4
+max_process_inject = 10
+max_timer_inject  = 10
+maxprocs = 10
+memprof = "log/memprof.log"
+plugin_chansize = 10
+poolsize = 100
+base_dir="cache"
+share_dir="."
+ 
